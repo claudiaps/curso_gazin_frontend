@@ -1,1 +1,0 @@
-console.log('primeiro arquivo de código do repositório')
