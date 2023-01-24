@@ -5,3 +5,7 @@ Repositório criado para aprender a aplicar técnicas de github. Será utilizado
 ## Ferramentas utilizadas
 
 Neste curso utilizaremos o github para aprender sobre git, e um projeto em react. Neste projeto serão configuradas bibliotecas que auxiliam o uso do git, como commitlint e husky
+
+## Edit
+
+Editando o arquivo readme
