@@ -11,6 +11,9 @@ function App() {
         <p>
           Alterando para a branch feature 1
         </p>
+        <span>
+          Alterando para a branch feature 2
+        </span>
         <a
           className="App-link"
           href="https://reactjs.org"
