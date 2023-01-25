@@ -9,14 +9,6 @@ function App() {
         <span>
           Alterando para a branch feature 2
         </span>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
