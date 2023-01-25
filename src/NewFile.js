@@ -1,6 +1,6 @@
 const NewFile = () => {
     return (
-        <div />
+        <h1>Novo componente</h1>
     );
 }
 
